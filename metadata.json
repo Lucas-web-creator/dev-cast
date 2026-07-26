@@ -1,0 +1,6 @@
+{
+  "name": "DevCast - Podcast de Engenharia de Software",
+  "description": "Podcast com 100 temas de Arquitetura, Novas Tecnologias e Carreira. Possui leitor de voz offline em 5 idiomas, 3 tipos de voz, velocidade customizada, gavetas de conteúdo e resumos inteligentes em formato blog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
